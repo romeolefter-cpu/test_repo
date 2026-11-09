@@ -1,1 +1,1 @@
-Pushed through Imhotep's mediated git
+Pushed through Imhotep's mediated git.
